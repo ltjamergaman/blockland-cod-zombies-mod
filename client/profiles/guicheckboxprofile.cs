@@ -1,0 +1,47 @@
+//--- OBJECT WRITE BEGIN ---
+new GuiControlProfile(GuiCheckBoxProfile) {
+   tab = "0";
+   canKeyFocus = "0";
+   mouseOverSelected = "0";
+   modal = "1";
+   opaque = "0";
+   fillColor = "232 232 232 255";
+   fillColorHL = "200 200 200 255";
+   fillColorNA = "200 200 200 255";
+   border = "0";
+   borderThickness = "1";
+   borderColor = "0 0 0 255";
+   borderColorHL = "128 128 128 255";
+   borderColorNA = "64 64 64 255";
+   fontType = "Arial";
+   fontSize = "14";
+   fontColors[0] = "0 0 0 255";
+   fontColors[1] = "32 100 100 255";
+   fontColors[2] = "0 0 0 255";
+   fontColors[3] = "200 200 200 255";
+   fontColors[4] = "0 0 204 255";
+   fontColors[5] = "85 26 139 255";
+   fontColors[6] = "0 0 0 0";
+   fontColors[7] = "0 0 0 0";
+   fontColors[8] = "0 0 0 0";
+   fontColors[9] = "0 0 0 0";
+   fontColor = "0 0 0 255";
+   fontColorHL = "32 100 100 255";
+   fontColorNA = "0 0 0 255";
+   fontColorSEL = "200 200 200 255";
+   fontColorLink = "0 0 204 255";
+   fontColorLinkHL = "85 26 139 255";
+   doFontOutline = "0";
+   fontOutlineColor = "255 255 255 255";
+   justify = "left";
+   textOffset = "0 0";
+   autoSizeWidth = "0";
+   autoSizeHeight = "0";
+   returnTab = "0";
+   numbersOnly = "0";
+   cursorColor = "0 0 0 255";
+   bitmap = "base/client/ui/torqueCheck";
+      fixedExtent = "1";
+      hasBitmapArray = "1";
+};
+//--- OBJECT WRITE END ---

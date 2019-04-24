@@ -1,0 +1,39 @@
+AssaultRifleItem 1500 wall
+GunItem 0 start
+AkimboGun 0 random
+BallisticShotgunItem 1800 wall
+TacticalShotgunItem 1200 wall
+AutomaticShotgunItem 0 ran
+BattleRifleitem 0 ran
+ClassicSniperRifleItem 500 wall
+- 0 ran
+- 600 wall
+RiotShotgunItem 1200 wall
+- 0 ran
+- 0 ran
+- 0 ran
+- 0 ran
+
+ray gun
+browning mg
+mg42
+tommy gun
+double barrel
+double barrel saw off
+trench gun
+mp42
+kar98k
+carbine
+gewher 40
+colt 1911
+fg42
+svt
+springfield
+-
+-
+-
+-
+bar
+-
+stg44
+wunderwaffe

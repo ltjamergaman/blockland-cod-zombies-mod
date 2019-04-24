@@ -1,0 +1,6 @@
+-> place barrier base brick
+L-> register base brick for barrier group
+-> place other barrier bricks
+L-> check if other bricks are still there
+ L-> yes, register each barrier brick into the same group as the base
+ L-> no, register as previous brick into the same group as base and continue

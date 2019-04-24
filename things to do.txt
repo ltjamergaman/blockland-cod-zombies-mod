@@ -1,0 +1,21 @@
+increase tool ammo >- player >- toolammo[%num] for pap
+increase total ammo >- client >- quantity[type of ammo] for pap
+increase max health either >- change data block or >- decrease amount of damage taken for juggernog
+create copy of items for speed cola >- change reload speed //or somehow find a way in the items functions to change it
+increase speed >- player >- change speed for staminup
+
+realistically
+intermission : start : pause : next round : end : reset systems
+ai spawning and pathing system
+player spawning : dying : downing : reviving systems
+ammo systems
+pack a punch
+perks
+doors
+points system
+traps
+teleporters
+mystery box system
+zones system
+client/server transfer
+gui

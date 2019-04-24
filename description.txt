@@ -1,0 +1,6 @@
+Title: Universal Zombie Gamemode
+Description: This is a gamemode that utilizes a replication of the zombies gamemode from Call of Duty.
+It can be used with any map, just as long as the rules are as followed.
+
+(TIP) - Do not use a build that has a high brick count, it will lag severely upon minigame activation.
+Even with low brickcounts, it can still lag pretty bad but all it's doing is searching for named bricks.

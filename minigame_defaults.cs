@@ -1,0 +1,11 @@
+$CoDZ::Pref::Perks = 1;
+$CoDZ::Pref::PaP = 1;
+$CoDZ::Pref::HellRound = 1;
+$CoDZ::Pref::SpecialItems = 1;
+$CoDZ::Pref::Gumballs = 1;
+$CoDZ::Pref::MysteryBox = 1;
+$CoDZ::Pref::Teleporters = 1;
+$CoDZ::Pref::Rewards = 1;
+$CoDZ::Pref::DirectorsMode = 0;
+$CoDZ::Pref::DebugMode = 0;
+$CoDZ::Pref::InsanityMode = 0;
